@@ -4,7 +4,10 @@ The shell script can help to delete linux user account and home directory by com
 
 ## Getting Started
 
-N/A
+You can clone the script stright or copy the code to your linux macheine, and use the below method to execute it.
+```
+deleteuser.sh abc (Prefix of user account. e.g. abc for abc0, abc1, abc2. etc.)
+```
 
 ### Prerequisites
 
