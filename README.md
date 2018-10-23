@@ -54,7 +54,7 @@ N/A
 
 ## Authors
 
-***Eric Hsieh** - *Initial work* - [PurpleBooth](https://github.com/EricHsieh0806)
+***Eric Hsieh** - [Eric Hsieh's GitHub](https://github.com/EricHsieh0806)
 
 ## License
 
